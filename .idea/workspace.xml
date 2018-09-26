@@ -84,6 +84,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -159,6 +162,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -223,7 +227,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/function/Consumer.java&#10;Predicate&#9;FILE&#9;jar://D:/Program Files/Java/jdk1.8.0_172/jre/lib/rt.jar!/java/util/function/Predicate.class&#10;Option&#9;FILE&#9;jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Optional.java&#10;Objects&#9;PSI&#9;JAVA://java.util.Objects&#10;NioE&#9;PSI&#9;JAVA://io.netty.channel.nio.NioEventLoop&#10;LinkedQue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;ConcurrentLink&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentLinkedQueue&#10;ThreadLo&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;wait&#9;PSI&#9;JAVA://java.lang.Object#wait&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;Unsafe&#9;PSI&#9;JAVA://sun.misc.Unsafe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537945582874" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537945771388" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../helidon" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -405,18 +409,18 @@
       <workItem from="1536655366686" duration="7564000" />
       <workItem from="1536736085462" duration="16913000" />
       <workItem from="1537236287874" duration="34511000" />
-      <workItem from="1537837221304" duration="9531000" />
+      <workItem from="1537837221304" duration="9817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73691000" />
+    <option name="totallyTimeSpent" value="73977000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1447" y="52" width="1936" height="1056" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49921995" visible="true" weight="0.25053647" />
-      <window_info id="Structure" order="1" sideWeight="0.50078005" side_tool="true" visible="true" weight="0.25053647" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49861497" visible="true" weight="0.25053647" />
+      <window_info id="Structure" order="1" sideWeight="0.50138503" side_tool="true" visible="true" weight="0.25053647" />
       <window_info id="JRebel" order="2" sideWeight="0.435247" side_tool="true" weight="0.21137339" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -426,16 +430,16 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.36666667" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28777778" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28777778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.19777778" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19777778" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="JRebel Executor" order="14" />
